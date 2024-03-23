@@ -1,0 +1,24 @@
+html {
+    padding: 85px;
+    background-color: darkturquoise;
+    font-size: 28px;
+    font-family: Helveiica, sans-serif;
+    font-weight: bold;
+    color: midnightblue;
+  }
+  
+  button {
+    cursor: pointer;
+    background-color: cornflowerblue;
+    border:none;
+    width: 125px;
+    height:45px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 2px midnightblue;
+    font-size: 22px;
+  }
+  
+  button:active{
+    box-shadow: 1px 1px 0px midnightblue;
+  }
+ 
